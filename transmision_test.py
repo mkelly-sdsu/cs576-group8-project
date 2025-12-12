@@ -1,5 +1,3 @@
-import simpy
-import simpy.rt
 import random
 import math
 import time
@@ -138,4 +136,5 @@ if __name__ == "__main__":
     t_delta           = steps_per_timeout / factor
     
     # Was running simpy before, but system sleeps is better
+
     run_env_main(t_delta)
