@@ -1,18 +1,18 @@
 # cs576-group8-project
 This project simulates 5G network activity. The key feature of this simulator is the fact that it implements the IPv4 protocol.
 
-GUI Example:
-![alt text](./gui.gif "GUI Example")
-
-CLI Example:
-![alt text](./cli.gif "CLI Example")
-
 To run the code, install python 3.9.13. This code uses only built in python libraries including:
 - tkinter
 - math
 - time
 - random
 - collections
+
+GUI Example:
+![alt text](./gui.gif "GUI Example")
+
+CLI Example:
+![alt text](./cli.gif "CLI Example")
 
 Below highlights the features:
 - Hexagonal Canvas
