@@ -2,7 +2,8 @@
 This project simulates 5G network activity. The key feature of this simulator is the fact that it implements the IPv4 protocol.
 
 To run the code, install python 3.9.13. Then run:
-'''
+
+'''python
 python ./gui.py
 '''
 
